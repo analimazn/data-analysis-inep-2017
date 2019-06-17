@@ -10,20 +10,20 @@ Também foram analisadas as quantidades de alunos nestas situações de acordo c
 
 Os dados utilizados estão disponíveis em um banco de dados público mantido pelo INEP, nesse banco de dados é possível utilizar filtros para realizar a exportação dos dados.
 
-#Fontes:
-####INEP: 
+# Fontes:
+#### INEP: 
 `http://inep.gov.br/inep-data`
 
-####Database INEP: 
+#### Database INEP: 
 `https://inepdata.inep.gov.br/analytics/saw.dll?Dashboard`
 
-###Antes de executar instale as seguintes bibliotecas:
+### Antes de executar instale as seguintes bibliotecas:
 
 ```
 pip install requests beautifulsoup4 wbdata pandas matplotlib lxml pytrends seaborn numpy ipython jupyter xlrd
 ```
 
-####Acesse o terminal ou cmd e digite o seguinte comando:
+#### Acesse o terminal ou cmd e digite o seguinte comando:
  `jupyter notebook` 
 
 Logo você será redirecionado para a página inicial do projeto :)
